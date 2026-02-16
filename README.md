@@ -1,7 +1,7 @@
 
 # Breast Cancer Research Project
 
-# collaborator:
+# collaborators:
 ## -@ImonEmmanuel: Project Lead & Model Development
 ## -@gift-eme: Python script development and preprocessing support
 
