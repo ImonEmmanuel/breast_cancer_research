@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project aims to analyze and predict diabetes-related outcomes using various machine learning algorithms. The research is conducted in Python, leveraging popular data science libraries such as pandas, scikit-learn, and matplotlib. The project also includes a research paper detailing the methodology, experiments, and findings.
+This project aims to analyze and predict breast-cancer-related outcomes using various machine learning algorithms. The research is conducted in Python, leveraging popular data science libraries such as pandas, scikit-learn, and matplotlib. The project also includes a research paper detailing the methodology, experiments, and findings.
 
 ## AIM
 Breast cancer diagnosis in medicine also makes use of machine learning. In order to direct future directions that may result in increases in patient safety, the current study looked at past patterns in breast cancer treatment for diabetic patients admitted to various hospitals. In this case study, we examine how machine learning might help distinguish between tumors into malignant (cancerous) or benign(non cancerous)
